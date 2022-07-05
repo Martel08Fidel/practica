@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <th>Animales</th>
+    colspan<th>Animales</th>
   </tr>
   <tr>
     <th>Hipopótamo</th>
