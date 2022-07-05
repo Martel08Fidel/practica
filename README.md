@@ -1,1 +1,9 @@
 # practica
+tbody {
+  font-size: 95%;
+  font-style: italic;
+}
+
+tfoot {
+  font-weight: bold;
+}
