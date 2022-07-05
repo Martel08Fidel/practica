@@ -35,8 +35,6 @@
   <tr>
     <th rowspan="2">Caballo</th>
     <td>Yegua</td>
-  </tr>
-  <tr>
     <td>Semental</td>
   </tr>
   <tr>
