@@ -30,7 +30,7 @@
   <th colspan="2">Animales</th>
   </tr>
   <tr>
-    <thcolspan="2">Hipopótamo</th>
+    <th colspan="2">Hipopótamo</th>
   </tr>
   <tr>
     <th rowspan="2">Caballo</th>
