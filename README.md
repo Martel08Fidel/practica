@@ -35,11 +35,12 @@
   <tr>
     <th rowspan="2">Caballo</th>
     <td>Yegua</td>
-    <td>Semental</td>
   </tr>
   <tr>
-
-<th colspan="2">Cocodrilo</th>
+  <td>Semental</td>
+  </tr>
+  <tr>
+  <th colspan="2">Cocodrilo</th>
   </tr>
   <tr>
 
