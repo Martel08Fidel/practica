@@ -1,7 +1,9 @@
 # Tablas
+<table>
 <tr>
-<td>Hola, soy tu primera celda.</td>
-<td>Soy tu segunda celda.</td>
-<td>Soy tu tercera celda.</td>
-<td>Soy tu cuarta celda.</td>
+<td>Celda1</td>
+<td>Celda 2</td>
+<td>Celda 3</td>
+<td>Celda 4</td>
 </tr>
+</table>
