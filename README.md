@@ -23,3 +23,33 @@
 <td>  </td>
 </tr>
 </table>
+
+
+<table>
+  <tr>
+    <th>Animales</th>
+  </tr>
+  <tr>
+    <th>Hipopótamo</th>
+  </tr>
+  <tr>
+    <th>Caballo</th>
+    <td>Yegua</td>
+  </tr>
+  <tr>
+    <td>Semental</td>
+  </tr>
+  <tr>
+
+<th>Cocodrilo</th>
+  </tr>
+  <tr>
+
+<th>Pollo</th>
+
+<td>Gallina</td>
+  </tr>
+  <tr>
+    <td>Gallo</td>
+  </tr>
+</table>
