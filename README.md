@@ -30,10 +30,10 @@
   <th colspan="2">Animales</th>
   </tr>
   <tr>
-    <th>Hipopótamo</th>
+    <thcolspan="2">Hipopótamo</th>
   </tr>
   <tr>
-    <th>Caballo</th>
+    <th rowspan="2">Caballo</th>
     <td>Yegua</td>
   </tr>
   <tr>
