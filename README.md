@@ -41,11 +41,11 @@
   </tr>
   <tr>
 
-<th>Cocodrilo</th>
+<th colspan="2">Cocodrilo</th>
   </tr>
   <tr>
 
-<th>Pollo</th>
+<th rowspan="2">Pollo</th>
 
 <td>Gallina</td>
   </tr>
