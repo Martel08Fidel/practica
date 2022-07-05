@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    colspan<th>Animales</th>
+  <th colspan="2">Animales</th>
   </tr>
   <tr>
     <th>Hipopótamo</th>
