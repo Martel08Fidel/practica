@@ -236,31 +236,19 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.14</th></tr>
-<tr><th>CASO DE USO</th><td>Consultar Curso</td></tr>
-<tr><th>ACTORES</th><td>Docente, Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
-<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
-</table>
-
-<table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.15</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.13</th></tr>
 <tr><th>CASO DE USO</th><td>Visualizar notas por Curso</td></tr>
 <tr><th>ACTORES</th><td>Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permitira al Alumno revisar sus notas por curso</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Alumno se situara en el menú principal y se dirigira al submenu de Cursos</td><td>2. El sistema mostrara un listado de los Cursos que tiene</td></tr>
+<tr><td>3. El Alumno seleccionara el Curso que desee</td><td>4. El sistema mostrara un ventana con la informacion del curso</td></tr>
+<tr><td>5. El Alumno realizara un click en el boton "Notas"</td><td>6. El sistema mostrara una tabla donde visualizara notas del Curso</td></tr>
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.16</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.14</th></tr>
 <tr><th>CASO DE USO</th><td>Visualizar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
@@ -272,7 +260,7 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.17</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.15</th></tr>
 <tr><th>CASO DE USO</th><td>Actualizar datos</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
@@ -284,7 +272,7 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.18</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.16</th></tr>
 <tr><th>CASO DE USO</th><td>Actualizar notas</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
