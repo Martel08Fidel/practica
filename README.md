@@ -173,8 +173,8 @@
 <tr><th>PROPOSITO</th><td>Permitir al Usuario actualizar sus datos personales</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr><td>1. El Usuario se situara en el menú principal y se dirigira al submenu de su perfil</td><td>2. El sistema mostrara un formulario con datos completo</td></tr>
-<tr><td>3. El Usuario actualizara sus datos</td><td>6. El sistema actualizara los datos ingresados</td></tr>
+<tr><td>1. El Usuario se situara en el menú principal y se dirigira al submenu de su perfil</td><td>2. El sistema mostrara un formulario con sus datos completos</td></tr>
+<tr><td>3. El Usuario actualizara sus datos</td><td>4. El sistema actualizara los datos ingresados</td></tr>
 </table>
 
 <table>
