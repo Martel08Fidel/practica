@@ -158,16 +158,16 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.06</th></tr>
 <tr><th>CASO DE USO</th><td>Eliminar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador eliminar un Curso especifico</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Administrador se situara en el submenu de Cursos</td><td>  </td></tr>
+<tr><td>2. El Administrador seleccionara el Curso que desee</td><td>3. El sistema mostrara botones</td></tr>
+<tr><td>4. El Administrador realizara un click en el boton "Eliminar"</td><td>5. El sistema eliminara todos los datos del Curso</td></tr>
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.08</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.07</th></tr>
 <tr><th>CASO DE USO</th><td>Editar datos personales</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
