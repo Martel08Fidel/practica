@@ -92,7 +92,23 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th style="background-color: yellow">C.U.01</th></tr>
+  <tr>
+
+<th>Dato 1</th>
+    <th style="background-color: yellow">Dato 2</th>
+  </tr>
+  <tr>
+    <td>Calcuta</td>
+    <td style="background-color: yellow">Pizza</td>
+  </tr>
+  <tr>
+    <td>Robots</td>
+    <td style="background-color: yellow">Jazz</td>
+  </tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>Permite al Administrador reguistrar los datos basicos del Usuario</td></tr>
