@@ -137,7 +137,7 @@
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situara en el menú principal y se dirigira al submenu de Cursos</td><td>2. El sistema motrara un listado de Cursos y botones</td></tr>
 <tr><td>3. El Administrador dara un click en el boton "Nuevo curso"</td><td>4. El sistema mostrara un formulario para el registro</td></tr>
-<tr><td>5. El Administrador afiliara los datos del Curso</td><td>6. El sistma registrara los datos ingresados y creara una nueva instancia Curso</td></tr>
+<tr><td>5. El Administrador afiliara los datos del Curso</td><td>6. El sistema registrara los datos ingresados y creara una nueva instancia Curso</td></tr>
 </table>
 
 <table>
