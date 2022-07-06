@@ -98,10 +98,9 @@
 <tr><th>PROPOSITO</th><td>Permite al Administrador reguistrar los datos basicos del Usuario</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr><td>1. El Administrador se situara en el submenú crear Usuario</td>
-  <td>2. El sistema motrara un formulario para el registro</td></tr>
- <tr><td>El Administrador solicitara los datos del Usuario</td><td>   </td></tr>
-  <tr><td>El Administrador afiliara los datos del Usuario</td><td> El sistma registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr>
+<tr><td>1. El Administrador se situara en el submenú crear Usuario</td><td>2. El sistema motrara un formulario para el registro</td></tr>
+ <tr><td>3. El Administrador solicitara los datos del Usuario</td><td>   </td></tr>
+  <tr><td>4. El Administrador afiliara los datos del Usuario</td><td>5. El sistma registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr>
 </table>
 
 <table>
