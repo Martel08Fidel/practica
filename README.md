@@ -76,9 +76,6 @@
       <td>6</td>
       <td>London Calling</td>
     </tr>
-
-      ... se han eliminado algunas filas por abreviar
-
     <tr>
       <th scope="row">The Stranglers</th>
       <td>1974</td>
