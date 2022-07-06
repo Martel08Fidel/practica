@@ -92,27 +92,6 @@
 </table>
 
 <table>
-  <colgroup>
-    <col>
-    <col style="background-color: yellow">
-  </colgroup>
-  <tr>
-
-<th>Dato 1</th>
-
-<th>Dato 2</th>
-  </tr>
-  <tr>
-    <td>Calcuta</td>
-    <td>Pizza</td>
-  </tr>
-  <tr>
-    <td>Robots</td>
-    <td>Jazz</td>
-  </tr>
-</table>
-
-<table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
