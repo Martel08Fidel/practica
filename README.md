@@ -119,7 +119,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.03</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Asignar Rol</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -132,7 +132,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.04</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Cambiar Rol</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -145,7 +145,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.05</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Crear Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -158,7 +158,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.06</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Destinar Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -171,7 +171,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.07</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Eliminar Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -184,7 +184,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.08</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Editar datos personales</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -197,7 +197,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.09</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Actualizar ID y contraseña</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -210,7 +210,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.10</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Seleccionar Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -223,7 +223,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.11</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Registrar notas por Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -236,7 +236,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.12</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Seleccionar Alumno</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -249,7 +249,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.13</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Registrar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -262,7 +262,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.14</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Consultar Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -275,7 +275,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.15</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Visualizar notas por Curso</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -288,7 +288,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.16</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Visualizar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -301,7 +301,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.17</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Actualizar datos</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
@@ -314,7 +314,7 @@
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.18</th></tr>
-<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>CASO DE USO</th><td>Actualizar notas</td></tr>
 <tr><th>ACTORES</th><td>   </td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
 <tr><th>DESCRIPCIÓN</th><td>   </td></tr>
