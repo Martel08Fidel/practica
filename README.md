@@ -107,7 +107,7 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.02</th></tr>
 <tr><th>CASO DE USO</th><td>Eliminar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>Permitir al Administrador eliminar a un usuario especifico</td></tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador eliminar a un usuario especifico</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el sub menu de Usuarios</td><td>  </td></tr>
