@@ -90,7 +90,7 @@
     </tr>
   </tfoot>
 </table>
-
+<table>
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
@@ -116,7 +116,7 @@
 <td>   </td><td>   </td>
 </tr>
 </table>
-
+</table>
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.03</th></tr>
 <tr><th>CASO DE USO</th><td>Asignar Rol</td></tr>
