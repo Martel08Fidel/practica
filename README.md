@@ -227,12 +227,12 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.12</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Docente</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permitira al Docente registrar las notas por Alumno que seleccione</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Docente se situara en el perfil del Alumno</td><td> </td></tr>
+<tr><td>2. El Docente realizara un click en el boton "Notas"</td><td>3. El sistema mostrara una tabla donde van todas las notas del Alumnos</td></tr>
+<tr><td>4. El Docente ingresara las notas del Alumno</td><td>5. El sistema registrara las notas ingresadas</td></tr>
 </table>
 
 <table>
