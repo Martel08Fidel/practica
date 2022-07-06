@@ -170,16 +170,15 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.07</th></tr>
 <tr><th>CASO DE USO</th><td>Editar datos personales</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permitir al Usuario actualizar sus datos personales</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Usuario se situara en el menú principal y se dirigira al submenu de su perfil</td><td>2. El sistema mostrara un formulario con datos completo</td></tr>
+<tr><td>3. El Usuario actualizara sus datos</td><td>6. El sistema actualizara los datos ingresados</td></tr>
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.09</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.08</th></tr>
 <tr><th>CASO DE USO</th><td>Actualizar ID y contraseña</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
