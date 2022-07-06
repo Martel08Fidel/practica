@@ -100,7 +100,7 @@
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td>2. El sistema mostrara un listado de Usuarios y botones</td></tr>
 <tr><td>3. El Administrador dara un click en el boton "Nuevo usuario"</td><td>4. El sistema mostrara un formulario para el registro</td></tr>
-<tr><td>5. El Administrador afiliara los datos del Usuario</td><td>6. El sistma registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr>
+<tr><td>5. El Administrador afiliara los datos del Usuario</td><td>6. El sistema registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr>
 </table>
 
 <table>
