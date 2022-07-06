@@ -96,7 +96,6 @@
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -109,7 +108,6 @@
 <tr><th>CASO DE USO</th><td>Eliminar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -122,7 +120,6 @@
 <tr><th>CASO DE USO</th><td>Asignar Rol</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -135,7 +132,6 @@
 <tr><th>CASO DE USO</th><td>Cambiar Rol</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -148,7 +144,6 @@
 <tr><th>CASO DE USO</th><td>Crear Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -161,7 +156,6 @@
 <tr><th>CASO DE USO</th><td>Destinar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -174,7 +168,6 @@
 <tr><th>CASO DE USO</th><td>Eliminar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -187,7 +180,6 @@
 <tr><th>CASO DE USO</th><td>Editar datos personales</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -200,7 +192,6 @@
 <tr><th>CASO DE USO</th><td>Actualizar ID y contraseña</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -213,7 +204,6 @@
 <tr><th>CASO DE USO</th><td>Seleccionar Curso</td></tr>
 <tr><th>ACTORES</th><td>Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -226,7 +216,6 @@
 <tr><th>CASO DE USO</th><td>Registrar notas por Curso</td></tr>
 <tr><th>ACTORES</th><td>Docente</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -239,7 +228,6 @@
 <tr><th>CASO DE USO</th><td>Seleccionar Alumno</td></tr>
 <tr><th>ACTORES</th><td>Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -252,7 +240,6 @@
 <tr><th>CASO DE USO</th><td>Registrar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Docente</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -265,7 +252,6 @@
 <tr><th>CASO DE USO</th><td>Consultar Curso</td></tr>
 <tr><th>ACTORES</th><td>Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -278,7 +264,6 @@
 <tr><th>CASO DE USO</th><td>Visualizar notas por Curso</td></tr>
 <tr><th>ACTORES</th><td>Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -291,7 +276,6 @@
 <tr><th>CASO DE USO</th><td>Visualizar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -304,7 +288,6 @@
 <tr><th>CASO DE USO</th><td>Actualizar datos</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
@@ -317,7 +300,6 @@
 <tr><th>CASO DE USO</th><td>Actualizar notas</td></tr>
 <tr><th>ACTORES</th><td>Administrador, Docente</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr>
