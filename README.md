@@ -110,7 +110,7 @@
 <tr><th>PROPOSITO</th><td>Permitir al Administrador eliminar a un usuario especifico</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td><2. El sistema mostrara un listado de todos los Usuarios registrados</td></tr>
+<tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td>2. El sistema mostrara un listado de todos los Usuarios registrados</td></tr>
 <tr><td>3. El Administrador seleccionara el Usuario que desee</td><td>4. El sistema mostrara un boton "elimimar"</td></tr>
 <tr><td>5.El Administrador realizara un click en el boton "eliminar"</td><td>6. El sistema eliminara todos los datos del Usuario   </td></tr>
 <tr><td>  </td><td>7. El sistema mostrara un mensaje al terminar el proceso</td></tr>
