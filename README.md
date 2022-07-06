@@ -92,7 +92,7 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th style="background-color: yellow">C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>Permite al Administrador reguistrar los datos basicos del Usuario</td></tr>
