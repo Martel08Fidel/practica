@@ -90,3 +90,30 @@
     </tr>
   </tfoot>
 </table>
+
+<table>
+<tr>
+<th>IDENTIFICACIÓN</th><th>C.U.01</th>
+</tr>
+<tr>
+<th>CASO DE USO</th><td>   </td>
+</tr>
+<tr>
+<th>ACTORES</th><td>   </td>
+</tr>
+<tr>
+<th>PROPOSITO</th><td>   </td>
+</tr>
+<tr>
+<th>DESCRIPCIÓN</th><td>   </td>
+</tr>
+<tr>
+<th colspan="2">CURSO TIPICO DE EVENTOS</th>
+</tr>
+<tr>
+<th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th>
+</tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
