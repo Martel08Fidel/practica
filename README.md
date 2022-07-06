@@ -116,3 +116,211 @@
 <td>   </td><td>   </td>
 </tr>
 </table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.03</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.04</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.05</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.06</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.07</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.08</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.09</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.10</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.11</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.12</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.13</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.14</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.15</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.16</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.17</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
+
+<table>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.18</th></tr>
+<tr><th>CASO DE USO</th><td>    </td></tr>
+<tr><th>ACTORES</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>DESCRIPCIÓN</th><td>   </td></tr>
+<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
+<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
+<tr>
+<td>   </td><td>   </td>
+</tr>
+</table>
