@@ -208,24 +208,23 @@
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Docente se situara en el menú principal y se dirigira al submenu de Cursos</td><td>2. El sistema mostrara un listado de los Cursos que tiene</td></tr>
 <tr><td>3. El Docente seleccionara el Curso que desee</td><td>4. El sistema mostrara un ventana con la informacion del curso y botones</td></tr>
-<tr><td>5. El Docente realizara un click en el boton "Notas"</td><td>6. El sistema mostrara una tabla de los Alumno que toman esa clase</td></tr>
+<tr><td>5. El Docente realizara un click en el boton "Notas"</td><td>6. El sistema mostrara una tabla de los Alumnos que toman esa clase</td></tr>
 <tr><td>5. El Docente ingresara las notas de cada Alumno</td><td>6. El sistema registrara las notas ingresadas</td></tr>
 </table>
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.11</th></tr>
 <tr><th>CASO DE USO</th><td>Seleccionar Alumno</td></tr>
-<tr><th>ACTORES</th><td>Docente, Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>ACTORES</th><td>Docente</td></tr>
+<tr><th>PROPOSITO</th><td>Permitir al Docente visualizar datos del Alumno</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Docente se situara en el menú principal y se dirigira al submenu de Alumnos</td><td>2. El sistema mostrara un listado de los Alumnos que tiene</td></tr>
+<tr><td>3. El Docente seleccionara el perfil del Alumno que desee</td><td>4. El sistema mostrara un ventana con la informacion del Alumno</td></tr>
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.13</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.12</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Docente</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
