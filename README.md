@@ -98,8 +98,8 @@
 <tr><th>PROPOSITO</th><td>Permite al Administrador reguistrar los datos basicos del Usuario</td </tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr><td>1. El Administrador se situara en el submenú Usuario</td><td>2. El sistema motrara un listado de usurios y un boton "Nuevo usuario"</td></tr>
-<tr><td>3. El Administrador dara un click en el boton "Nuevo usuario"</td><td>4.El sistema mostrara un formulario para el registro</td></tr>
+<tr><td>1. El Administrador se situara en el submenú Usuario</td><td>2. El sistema motrara un listado de usurios y un botones</td></tr>
+<tr><td>3. El Administrador dara un click en el boton "Nuevo usuario"</td><td>4. El sistema mostrara un formulario para el registro</td></tr>
 <tr><td>5. El Administrador afiliara los datos del Usuario</td><td>6. El sistma registrara los datos ingresados y creara una nueva cuenta de Usuario</td></tr>
 </table>
 
@@ -111,18 +111,21 @@
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td>2. El sistema mostrara un listado de todos los Usuarios registrados</td></tr>
-<tr><td>3. El Administrador seleccionara el Usuario que desee</td><td>4. El sistema mostrara un boton "elimimar"</td></tr>
-<tr><td>5.El Administrador realizara un click en el boton "eliminar"</td><td>6. El sistema eliminara todos los datos del Usuario   </td></tr>
+<tr><td>3. El Administrador seleccionara el Usuario que desee</td><td>4. El sistema mostrara botones</td></tr>
+<tr><td>5.El Administrador realizara un click en el boton "Eliminar"</td><td>6. El sistema eliminara todos los datos del Usuario   </td></tr>
 </table>
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.03</th></tr>
 <tr><th>CASO DE USO</th><td>Asignar Rol</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permitir al Administrador dar permisos al Ususario</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr><td>  </td><td>   </td></tr>
+<tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td>2. El sistema motrara un listado de usurios y un botones</td></tr>
+<tr><td>3. El Administrador seleccionara el Usuario que desee</td><td>4. El sistema mostrara botones</td></tr>
+<tr><td>5. El Administrador realizara un click en el boton "Rol"</td><td>6. Mostrara 2 opciones Docente y Alumno</td></tr>
+<tr><td>7. El Administrador seleccionara una opcion</td><td>8. Asignara los permisos necesarios al Usuario</td></tr>
 </table>
 
 <table>
