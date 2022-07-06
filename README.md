@@ -119,7 +119,7 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.03</th></tr>
 <tr><th>CASO DE USO</th><td>Asignar Rol</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>Permitir al Administrador dar permisos al Ususario</td></tr>
+<tr><th>PROPOSITO</th><td>Permitir al Administrador dar permisos al Usuario</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el submenu de Usuarios</td><td> </td></tr>
