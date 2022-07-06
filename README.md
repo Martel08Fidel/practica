@@ -141,19 +141,21 @@
 </table>
 
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.06</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.05</th></tr>
 <tr><th>CASO DE USO</th><td>Destinar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador agregar Docentes y Alumnos a los Cursos</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Administrador se situara en el submenu de Cursos</td><td> </td></tr>
+<tr><td>2. El Administrador seleccionara el Curso que desee</td><td>3. El sistema mostrara botones</td></tr>
+<tr><td>4. El Administrador realizara un click en el boton "Asignar curso"</td><td>5. Mostrara a los Docente y Alumno</td></tr>
+<tr><td>6. El Administrador seleccionara a los Docentes y Alumnos</td><td>7. Actualizara la informacion del Curso</td></tr>
 </table>
 
+
 <table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.07</th></tr>
+<tr><th>IDENTIFICACIÓN</th><th>C.U.06</th></tr>
 <tr><th>CASO DE USO</th><td>Eliminar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
 <tr><th>PROPOSITO</th><td>   </td></tr>
