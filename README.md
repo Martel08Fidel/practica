@@ -95,7 +95,7 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.01</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Usuario</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>Permite al Administrador reguistrar los datos basicos del Usuario</td </tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador registrar los datos basicos del Usuario</td </tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Usuarios</td><td>2. El sistema motrara un listado de Usuarios y botones</td></tr>
@@ -123,33 +123,21 @@
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
 <tr><td>1. El Administrador se situra en el sub menu de Usuarios</td><td> </td></tr>
-<tr><td>3. El Administrador seleccionara el Usuario que desee</td><td>4. El sistema mostrara botones</td></tr>
-<tr><td>5. El Administrador realizara un click en el boton "Rol"</td><td>6. Mostrara 2 opciones Docente y Alumno</td></tr>
-<tr><td>7. El Administrador seleccionara una opcion</td><td>8. Asignara los permisos necesarios al Usuario</td></tr>
+<tr><td>2. El Administrador seleccionara el Usuario que desee</td><td>3. El sistema mostrara botones</td></tr>
+<tr><td>4. El Administrador realizara un click en el boton "Rol"</td><td>5. Mostrara 2 opciones Docente y Alumno</td></tr>
+<tr><td>6. El Administrador seleccionara una opcion</td><td>7. Asignara los permisos necesarios al Usuario</td></tr>
 </table>
 
 <table>
 <tr><th>IDENTIFICACIÓN</th><th>C.U.04</th></tr>
-<tr><th>CASO DE USO</th><td>Cambiar Rol</td></tr>
-<tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
-<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
-</table>
-
-<table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.05</th></tr>
 <tr><th>CASO DE USO</th><td>Registrar Curso</td></tr>
 <tr><th>ACTORES</th><td>Administrador</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permite al Administrador registrar los datos del Curso</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Administrador se situra en el menú principal y se dirigira al sub menu de Cursos</td><td>2. El sistema motrara un listado de Cursos y botones</td></tr>
+<tr><td>3. El Administrador dara un click en el boton "Nuevo curso"</td><td>4. El sistema mostrara un formulario para el registro</td></tr>
+<tr><td>5. El Administrador afiliara los datos del Curso</td><td>6. El sistma registrara los datos ingresados y creara una nueva instancia Curso</td></tr>
 </table>
 
 <table>
