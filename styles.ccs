@@ -1,6 +1,6 @@
 thead, tfoot {
   background: url(leopardskin.jpg);
-  color: white;
+  color: yello;
   text-shadow: 1px 1px 1px black;
 }
 
