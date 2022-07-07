@@ -1,5 +1,7 @@
 <html>
-          <link href="style.css" rel="stylesheet" type="text/css">
+     <head>
+           <link href="style.css" rel="stylesheet" type="text/css">
+          </head>
 </html>
 
 # Tablas
