@@ -1,7 +1,5 @@
-
-2<html>
+<html>
      <head>
-      <title>Bordes,MargenesyRellenos</title>
       <link rel="stylesheet"
       <link rel="stylesheet"href="style.css"/>
      </head>
