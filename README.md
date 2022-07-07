@@ -257,16 +257,4 @@
 <tr><td>1. El Alumno se situara en el menú principal y se dirigira al su perfil</td><td>2. El sistema mostrara la ventana Usuario</td></tr>
 <tr><td>3. El Alumno realizara un click en el boton "Notas"</td><td>4. El sistema mostrara una tabla con la informacion de todas las notas de todos sus Cursos</td></tr>
 </table>
-
-  
-  thead, tfoot {
-  background: url(leopardskin.jpg);
-  color: white;
-  text-shadow: 1px 1px 1px black;
-}
-
-thead th, tfoot th, tfoot td {
-  background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
-  border: 3px solid purple;
-}
   
