@@ -251,12 +251,11 @@
 <tr><th>IDENTIFICACIÓN</th><th>C.U.14</th></tr>
 <tr><th>CASO DE USO</th><td>Visualizar notas por Alumno</td></tr>
 <tr><th>ACTORES</th><td>Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
+<tr><th>PROPOSITO</th><td>Permitira al Alumno revisar todas sus notas por su perfil</td></tr>
 <tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
 <tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
+<tr><td>1. El Alumno se situara en el menú principal y se dirigira al su perfil</td><td>2. El sistema mostrara la ventana Usuario</td></tr>
+<tr><td>3. El Alumno realizara un click en el boton "Notas"</td><td>4. El sistema mostrara una tabla con la informacion de todas las notas de todos sus Cursos</td></tr>
 </table>
 
 <table>
