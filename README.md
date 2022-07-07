@@ -1,9 +1,8 @@
 <html>
      <head>
-           <link rel="stylesheet" href="style.css"/>
-          </head>
-          <body>
-          # Tablas
+          <link rel="stylesheet" href="style.css"/>
+     </head>
+     <body>
           <table>
           <tr><th>Columna1</th>
           <th>Columna2</th>
@@ -16,7 +15,7 @@
           </tr>
           <tr><th>Fila3</th><td>  </td><td>  </td><td>  </td>
           </tr></table>
-          </body>
+     </body>
 </html>
 
 
