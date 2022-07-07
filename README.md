@@ -1,4 +1,6 @@
+<html>
           <link href="style.css" rel="stylesheet" type="text/css">
+</html>
 
 # Tablas
 <table><!-- GFDGDFG-->
