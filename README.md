@@ -258,26 +258,15 @@
 <tr><td>3. El Alumno realizara un click en el boton "Notas"</td><td>4. El sistema mostrara una tabla con la informacion de todas las notas de todos sus Cursos</td></tr>
 </table>
 
-<table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.15</th></tr>
-<tr><th>CASO DE USO</th><td>Actualizar datos</td></tr>
-<tr><th>ACTORES</th><td>Administrador, Docente, Alumno</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
-<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
-</table>
+  
+  thead, tfoot {
+  background: url(leopardskin.jpg);
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
 
-<table>
-<tr><th>IDENTIFICACIÓN</th><th>C.U.16</th></tr>
-<tr><th>CASO DE USO</th><td>Actualizar notas</td></tr>
-<tr><th>ACTORES</th><td>Administrador, Docente</td></tr>
-<tr><th>PROPOSITO</th><td>   </td></tr>
-<tr><th colspan="2">CURSO TIPICO DE EVENTOS</th></tr>
-<tr><th>ACCION DEL ACTOR</th><th>RESPUESTAS DEL SISTEMA</th></tr>
-<tr>
-<td>   </td><td>   </td>
-</tr>
-</table>
+thead th, tfoot th, tfoot td {
+  background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+  border: 3px solid purple;
+}
+  
