@@ -1,3 +1,21 @@
+
+2<html>
+     <head>
+      <title>Bordes,MargenesyRellenos</title>
+      <link rel="stylesheet"
+      <link rel="stylesheet"href="style.css"/>
+     </head>
+     <body>
+      <div class="out">
+        <div class="in">
+          hola
+        </div>
+      </div>
+     </body>14
+5</html>
+                          href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
+                                                                                                I
+
 # Tablas
 <table><!-- GFDGDFG-->
 <tr>
